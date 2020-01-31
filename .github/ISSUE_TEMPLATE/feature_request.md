@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for Sonarr
+about: Suggest an idea for Gamerr
 
 ---
 
